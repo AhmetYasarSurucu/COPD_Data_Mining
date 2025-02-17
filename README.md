@@ -97,6 +97,7 @@ R² değeri %90,9 olup, modelin test verilerindeki değişkenliğin büyük bir 
 Eğitim R²: 0.9942 → Test R²: 0.9087. Bu fark, modelin eğitim verisine genelleme yaparken zorlandığını göstermektedir.
 
 2.6 Aykırı Gözlem Analizi
+
  ![image](https://github.com/user-attachments/assets/7e55cef6-ce0f-4294-b19f-40fec95a0075)
 
 Veri setindeki aykırı değerlerin etkisini azaltmak ve model performansını iyileştirmek amacıyla logaritmik dönüşüm uygulanmıştır. Bu işlem, yalnızca sayısal sütunlara yapılmış olup, encoding yapılmış kategorik sütunlar dönüşümden hariç tutulmuştur.
